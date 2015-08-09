@@ -1,4 +1,5 @@
-//task: find the sum of the even-valued terms of the Fibonacci sequence.
+//URL: http://projecteuler.net/problem=2
+//task: to find the sum of the even-valued terms of the Fibonacci sequence.
 
 var a = 1;
 var b = 2;
