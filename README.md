@@ -1,2 +1,2 @@
-# 101
-My first repository on GitHub, yeah
+# projecteuler
+Problems 1, 2 and 3
