@@ -16,4 +16,4 @@ while (a < 4000000) {
 
 }
 
-console.log(sum)
+console.log(sum) //4613732
