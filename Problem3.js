@@ -1,4 +1,5 @@
-//We need to find the largest prime factor of the number 600851475143
+//URL: http://projecteuler.net/problem=3
+//task: to find the largest prime factor of the number 600851475143
 
 function f(number) {
   var result = []; //here we will store the prime factors of our number
