@@ -14,10 +14,10 @@ function f(number) {
   return result; //here we receive an array of prime factors
 }
 
-for (var i = 0; i < result.length; i++) { //now we are finding the largest prime factor
+for (var i = 0; i < result.length; i++) { //now we are searching for the largest prime factor
     if(result[i] > result[0]){
         result[0] = result[i];
     }
 }
-f(600851475143); //so we call a function with our number
-console.log(result[0]);
+f(600851475143); //so we call a function with our number to get an arrey of prome factors for this number
+console.log(result[0]); //and then search for the largest prime factor
