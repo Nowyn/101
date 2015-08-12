@@ -20,4 +20,4 @@ while (a < 4000000) { //we declare the limit
           b = c; //...and b (2nd term) becomes c (3rd term)
 }
 
-console.log(sum) //sum = 4613732
+console.log(sum); //sum = 4613732
